@@ -5,9 +5,8 @@ import Particle from "../Particle";
 import nexgen from "../../Assets/Projects/nexgen.jpg";
 import dsaTracker from "../../Assets/Projects/dsaTracker.jpg"
 import numbers from "../../Assets/Projects/numbers.jpg";
-import blog from "../../Assets/Projects/blog.png";
-import chatbot from "../../Assets/Projects/chatbot.png";
-import tictac from "../../Assets/Projects/tictac.png";
+import flow from '../../Assets/Projects/flow.png'
+
 
 function Projects() {
   return (
@@ -21,6 +20,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={flow}
+              isBlog={false}
+              title="Flow"
+              description=" Developed the Flow app, inspired by OkCredit, featuring Google authentication for secure access and a tabular expense view for streamlined tracking and organization. The app enables users to log expenses with custom reminders for effective financial management, leveraging Firebase Cloud Messaging (FCM) to deliver real-time notifications for due reminders."
+              ghLink="https://github.com/yuv-raj100/Flow-Public"
+              demoLink="https://drive.google.com/file/d/1muIxpJax2_pBc171Onp2UK7zj6vEIr8J/view?usp=sharing"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={nexgen}

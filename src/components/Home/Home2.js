@@ -19,13 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a 3rd year Computer Science Engineering undergrad at MNIT Jaipur
+              I am a 4th year Computer Science Engineering undergrad at MNIT Jaipur
               <br />
               <br />
-              {/* I have done my <b className="purple">SDE Internship</b> at <b className="purple">Trilogy Innovations (CodeNation)</b> last summer.
+              I have done my <b className="purple">SDE Internship</b> at <b className="purple">Wells Fargo</b> last summer.
               <br />
               <br />
-             I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
+             {/* I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
               <br />
               <br /> */}
               My field of Interest's are building new &nbsp;
@@ -37,9 +37,9 @@ function Home2() {
               I am a <b className="purple">tech geek</b> and always learn and explore things related to <i><b className="purple">Technology and Softwares</b></i>.
               <br />
               <br />
-              I have knowledge of <i><b className="purple">ReactJS, React Native and Express</b></i>.
+              {/* I have knowledge of <i><b className="purple">ReactJs, React Native and NodeJs</b></i>.
               <br />
-              <br />
+              <br /> */}
               Currently I'm learning <i><b className="purple">App Development</b></i>.
               <br />
               <br />

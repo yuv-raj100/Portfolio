@@ -35,10 +35,10 @@ function Projects() {
               imgPath={nexgen}
               isBlog={false}
               title="NexGen"
-              description=" Developed a mobile responsive e-commerce website using tailwindCSS. Implemented Redux for gloabl state management and ensured secure user authentication with JWT tokens. Utilized local storage for persistent cart functionality and developed RESTful API end points for backend product
-              data management."
+              description=" Developed a mobile responsive e-commerce website using TailwindCSS with JWT-based authentication and Redux
+ for global state management. Added protected routes, infinite scrolling for product listings, and Razorpay integration for secure online payments. Created RESTful APIs for backend data management and ensured persistent cart functionality using local storage."
               ghLink="https://github.com/yuv-raj100/Ecommerce-Store"
-              demoLink="https://ecommerce-store-client-six.vercel.app/"
+              demoLink="https://nexgen-liard.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
